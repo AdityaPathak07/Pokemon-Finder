@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pokemon-Finder/static/css/main.59da8adf.css",
+    "main.js": "/Pokemon-Finder/static/js/main.42e5ab04.js",
+    "index.html": "/Pokemon-Finder/index.html",
+    "main.59da8adf.css.map": "/Pokemon-Finder/static/css/main.59da8adf.css.map",
+    "main.42e5ab04.js.map": "/Pokemon-Finder/static/js/main.42e5ab04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59da8adf.css",
+    "static/js/main.42e5ab04.js"
+  ]
+}
